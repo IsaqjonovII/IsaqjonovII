@@ -7,7 +7,7 @@
 - 
 
 - I use these technologies: 
-- For Front End: ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+- For Front End: [ReactJS](https://simpleicons.org/icons/react.svg)
 
 <!--
 **ilhomjon003/ilhomjon003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
