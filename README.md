@@ -3,10 +3,11 @@
 
 - 🔭 I’m currently working on Fortnite clone
 - 🌱 I’m currently learning NodeJS
-- 📫 How to reach me: [email](@ilhomjonisoqjonov2@gmail.com )or [telegram](https://t.me/ilhomjon_isaqjonov)
+- 📫 How to reach me: @ilhomjonisoqjonov2@gmail.com  or [telegram](https://t.me/ilhomjon_isaqjonov)
+- 
 
 - I use these technologies: 
-- For Front End: 
+- For Front End: ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 <!--
 **ilhomjon003/ilhomjon003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
