@@ -7,7 +7,7 @@
 - 
 
 - I use these technologies: 
-- For Front End: (https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=React&logoColor=#61DAFB)]
+- For Front End: [ReactJS](https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=React&logoColor=#61DAFB)]
 <!--
 **ilhomjon003/ilhomjon003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
