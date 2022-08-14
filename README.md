@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ilhomjon from Uzbekistan.
+### Hi 👋, I'm Ilhomjon from Uzbekistan.
 #### **Web Developer**
 
 **Skills**
@@ -16,6 +16,9 @@
    <a href = "mailto: ilhomjonisoqjov2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
  </br>
 </div>
+<br/>
+
+### My Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ilhomjon003&show_icons=true&theme=dark" width="400">
 
