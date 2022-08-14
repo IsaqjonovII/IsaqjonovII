@@ -1,16 +1,13 @@
 ### Hi there 👋, I'm Ilhomjon from Uzbekistan.
 #### **Web Developer**
-
-**I use these**
-       For Front-End  
-    [![](https://skills.thijs.gg/icons?i=html,css,scss,js,react,redux&theme=dark)](https://skills.thijs.gg)
-        For Backend 
-    [![](https://skills.thijs.gg/icons?i=firebase,nodejs,express&theme=dark)](https://skills.thijs.gg)
+<br/>
+**Skills**
+    [![](https://skills.thijs.gg/icons?i=html,css,scss,js,react,redux,firebase,nodejs,express&theme=dark)](https://skills.thijs.gg)
         
 
 - 🤔 I’m looking for help with NodeJS, MongoDB 
 - 💬 Ask me about **HTML, CSS, JS and REACT** 
-- 📫 How to reach me: @ilhomjonisoqjonov or [telegram](https://t.me/ilhomjon_isaqjonov) 
+- 📫 How to reach me: via [telegram](https://t.me/ilhomjon_isaqjonov) 
 ### Contact
  <div style:"display: "inline-block">
    <a href="https://www.linkedin.com/in/ilhomjon-isaqjonov-b0b62b226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
