@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Ilhomjon from Uzbekistan.
 #### **Web Developer**
-<br/>
-**Skills
-[![](https://skills.thijs.gg/icons?i=html,css,scss,js,react,redux,firebase,nodejs,express&theme=dark)](https://skills.thijs.gg)
+
+**Skills**
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,js,react,redux,firebase&theme=light)](https://skills.thijs.gg)
         
 
 - 🤔 I’m looking for help with NodeJS, MongoDB 
@@ -16,9 +17,11 @@
  </br>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhomjon003)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ilhomjon003&show_icons=true&theme=dark" width="400">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhomjon003&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhomjon003&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilhomjon003&theme=dark&background=000000)](https://git.io/streak-stats) 
 
 ![Profile views](https://gpvc.arturio.dev/ilhomjon003)
 
