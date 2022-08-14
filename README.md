@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Ilhomjon from Uzbekistan.
 #### **Web Developer**
 
-** I use these
-    [![Technologies](https://skills.thijs.gg/icons?i=js,css,react,html&theme=dark)](https://skills.thijs.gg)
+**I use these**
+    [![For Front-End](https://skills.thijs.gg/icons?i=html,css,scss,js,react,redux&theme=dark)](https://skills.thijs.gg)
 
 - 🤔 I’m looking for help with NodeJS, MongoDB 
 - 💬 Ask me about **HTML, CSS, JS and REACT** 
