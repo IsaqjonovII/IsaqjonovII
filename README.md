@@ -6,7 +6,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,js,react,redux,firebase&theme=light)](https://skills.thijs.gg)
         
 
-- 🤔 I’m looking for help with NodeJS, MongoDB 
+- 🤔 I’m looking for help with Typescript 
 - 💬 Ask me about **HTML, CSS, JS and REACT** 
 - 📫 How to reach me: via [telegram](https://t.me/ilhomjon_isaqjonov) 
 ### Contact
