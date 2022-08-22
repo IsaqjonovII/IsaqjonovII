@@ -28,6 +28,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/ilhomjon003)
 
-<a href="https://wakatime.com/badge/github/ilhomjon003/exam"><img src="https://wakatime.com/badge/github/ilhomjon003/exam.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@96c624d1-0b41-48bb-b954-a9efd41cfa9d"><img src="https://wakatime.com/badge/user/96c624d1-0b41-48bb-b954-a9efd41cfa9d.svg" alt="Total time coded since Aug 3 2022" /></a>
 
 ![Snake animation](https://github.com/ilhomjon003/ilhomjon003/blob/output/github-contribution-grid-snake.svg)
