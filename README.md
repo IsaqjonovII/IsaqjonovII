@@ -1,7 +1,7 @@
-### Hi 👋, I'm Ilhomjon from Uzbekistan.
-#### **Web Developer**
+## Hi 👋, I'm Ilhomjon from Uzbekistan.
+### Web Developer
 
-### Skills
+### :boom: Skills
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,js,ts,react,redux,firebase&theme=light)](https://skills.thijs.gg)
         
@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with Typescript 
 - 💬 Ask me about **HTML, CSS, JS and REACT** 
 - 📫 How to reach me: via [telegram](https://t.me/ilhomjon_isaqjonov) 
-### Contact
+### :boom: Contact
  <div style:"display: "inline-block">
    <a href="https://www.linkedin.com/in/ilhomjon-isaqjonov-b0b62b226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/ilhomjon_isaqjon0v" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -18,7 +18,7 @@
 </div>
 <br/>
 
-### My Github Stats
+### :boom:My Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ilhomjon003&show_icons=true&theme=dark" width="400">
 
