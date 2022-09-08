@@ -8,7 +8,7 @@
 
 - 🤔 I’m looking for help with Typescript 
 - 💬 Ask me about **HTML, CSS, JS and REACT** 
-- 📫 How to reach me: via [telegram](https://t.me/ilhomjon_isaqjonov) 
+- 📫 How to reach me: via [telegram](https://t.me/ilhomjondev) 
 ### :boom: Contact
  <div style:"display: "inline-block">
    <a href="https://www.linkedin.com/in/ilhomjon-isaqjonov-b0b62b226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
