@@ -9,19 +9,28 @@
 - 🤔 I’m looking for help with Typescript 
 - 💬 Ask me about **HTML, CSS, JS and REACT** 
 - 📫 How to reach me: via [telegram](https://t.me/ilhomjondev) 
-### :boom: Contact
+### :phone: Contact
  <div style:"display: "inline-block">
    <a href="https://www.linkedin.com/in/ilhomjon-isaqjonov-b0b62b226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/ilhomjon.isaqjonov" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto: ilhomjonisoqjov2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
- </br>
+ <br/>
 </div>
 <br/>
 
 ### :boom:My Github Stats
 
+<br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilhomjon003&theme=dark)](https://git.io/streak-stats) 
+[![Ilhomjon's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ilhomjon003&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<br>
+
+[![Ilhomjon's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ilhomjon003&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhomjon003&theme=dark)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilhomjon003&theme=dark)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/ilhomjon003)
 
