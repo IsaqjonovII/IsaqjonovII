@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Ilhomjon from Uzbekistan.
 ### Web Developer
 
-### :boom: Skills
+### ⚔️ Skills
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,js,ts,react,redux,firebase&theme=light)](https://skills.thijs.gg)
         
