@@ -3,7 +3,7 @@
 
 ### ⚔️ Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,tailwindcss,styledcomponents,js,ts,react,redux,firebase,github&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,tailwindcss,styledcomponents,js,ts,react,redux,firebase,github&theme=dark)](https://skills.thijs.gg)
         
 
 - 🤔 I’m looking for help with React 
