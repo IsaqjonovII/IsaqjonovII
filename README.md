@@ -6,7 +6,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,tailwindcss,styledcomponents,js,ts,react,redux,firebase,github&theme=dark)](https://skills.thijs.gg)
         
 
-- 🤔 I’m looking for help with React 
+- 🤔 I’m looking for help with React Native, NodeJS 
 - 💬 Ask me about **HTML, CSS, JS and REACT** 
 - 📫 How to reach me: via [telegram](https://t.me/ilhomjondev) 
 ### :phone: Contact
