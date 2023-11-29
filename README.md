@@ -1,4 +1,4 @@
-## Hi 👋, I'm Ilhomjon from Uzbekistan.
+## Hi 👋, I'm <a href="https://ilhomjon.dev" target="_blank" rel="noreferrer noopener">Ilhomjon</a> from Uzbekistan.
 ### Web Developer
 
 ### ⚔️ Skills
