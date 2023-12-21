@@ -5,12 +5,11 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,tailwindcss,styledcomponents,js,ts,react,redux,firebase,github&theme=dark)](https://skills.thijs.gg)
         
-
-- 🤔 I’m looking for help with React Native, NodeJS 
-- 💬 Ask me about **HTML, CSS, JS and REACT** 
-- 📫 How to reach me: via [telegram](https://t.me/ilhomjondev) 
 ## :phone: Contact
  <div style:"display: "inline-block">
+   <a href="https://t.me/ilhomjondev" target="_blank" rel="noreferrer noopener">
+        <img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white">
+   </a> 
    <a href="https://www.linkedin.com/in/ilhomjon-isaqjonov/" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a> 
@@ -23,9 +22,11 @@
  <br/>
 </div>
 <br/>
+<p><img src="https://komarev.com/ghpvc/?username=IsaqjonovII&label=Profile%20views&color=0e75b6&style=flat" alt="Ilhomjon Isaqjonov" /> </p>
+
 
 ## :boom:My Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqjonovII&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Ilhomjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqjonovII&show_icons=true&theme=dark)
 <br />
 <br />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IsaqjonovII&theme=dark)](https://git.io/streak-stats)
