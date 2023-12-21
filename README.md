@@ -36,4 +36,4 @@
 <br />
 <br />
 ## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=IsaqjonovII&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IsaqjonovII&theme=onestar&column=7)](https://github.com/ryo-ma/github-profile-trophy)
