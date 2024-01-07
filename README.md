@@ -13,7 +13,7 @@
    <a href="https://www.linkedin.com/in/ilhomjon-isaqjonov/" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a> 
-   <a href="https://instagram.com/ilhomjon.isaqjonov" target="_blank" rel="noreferrer noopener">
+   <a href="https://instagram.com/ilhomjondev" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href="mailto: isaqjonoviii@gmail.com" target="_blank" rel="noreferrer noopener">
