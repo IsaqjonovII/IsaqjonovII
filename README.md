@@ -7,9 +7,6 @@
         
 ## :phone: Contact
  <div style:"display: "inline-block">
-   <a href="https://t.me/ilhomjondev" target="_blank" rel="noreferrer noopener">
-        <img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white">
-   </a> 
    <a href="https://www.linkedin.com/in/ilhomjon-isaqjonov/" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a> 
@@ -19,6 +16,9 @@
     <a href="mailto: isaqjonoviii@gmail.com" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
     </a>
+    <a href="https://t.me/ilhomjondev" target="_blank" rel="noreferrer noopener">
+        <img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white">
+   </a> 
  <br/>
 </div>
 <br/>
