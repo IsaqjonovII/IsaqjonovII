@@ -8,6 +8,11 @@
 <br/>
 <br/>
 
+<div>
+
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/IsaqjonovII.svg)](https://user-badge.committers.top/uzbekistan/IsaqjonovII)
+</div>
+
  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
    <a href="https://www.linkedin.com/in/ilhomjon-isaqjonov/" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
