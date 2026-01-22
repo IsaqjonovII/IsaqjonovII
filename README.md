@@ -18,13 +18,13 @@
    <a href="https://www.linkedin.com/in/ilhomjon-isaqjonov/" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
-   <a href="https://instagram.com/ilhomjondev" target="_blank" rel="noreferrer noopener">
+   <a href="https://instagram.com/ilxom_isaqjonov" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
       <a href="https://leetcode.com/u/IsaqjonovII/" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/-LeetCode-%1A1A1A?style=for-the-badge&logo=leetcode&logoColor=white">
    </a>
-    <a href="https://t.me/ilhomjondev" target="_blank" rel="noreferrer noopener">
+    <a href="https://t.me/ilxom_isaqjonov" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white">
    </a>
    <a href="mailto: isaqjonoviii@gmail.com" target="_blank" rel="noreferrer noopener">
