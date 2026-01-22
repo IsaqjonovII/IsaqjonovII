@@ -10,7 +10,7 @@
 
 <div>
 
-[![committers.top badge](https://user-badge.committers.top/uzbekistan/IsaqjonovII.svg)](https://user-badge.committers.top/uzbekistan/IsaqjonovII)
+<!-- [![committers.top badge](https://user-badge.committers.top/uzbekistan/IsaqjonovII.svg)](https://user-badge.committers.top/uzbekistan/IsaqjonovII) -->
 
 </div>
 
@@ -44,8 +44,6 @@
 <div style="display: flex; gap: 3px; flex-wrap: wrap; justify-content: center;">
 
 ![Ilhomjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqjonovII&show_icons=true&bg_color=1C292F&title_color=6BDE3B&text_color=E9EFE6&icon_color=E9EFE6&border_color=1F5E6B)
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IsaqjonovII&&theme=dark&background=1C292F&fire=6BDE3B&ring=6BDE3B&currStreakLabel=6BDE3B&&border=1F5E6B&stroke=1F5E6B)
 
 </div>
 </div>
